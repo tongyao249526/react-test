@@ -1,0 +1,17 @@
+.header{
+    width: 100vw;
+    height: 90px;
+    background-color: #ff5722;
+    position: relative;
+    font-size: 40px;
+    color: #ffffff;
+}
+.header_back{
+    display: inline-block;
+    background-image: url('../../assets/images/back_icon.png');  
+    width: 19px;
+    height: 33px;
+    background-size: 100% 100%;  
+    position: absolute;
+    left: 20px;
+}
